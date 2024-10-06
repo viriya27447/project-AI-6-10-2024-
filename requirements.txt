@@ -1,0 +1,10 @@
+os-sys  # ไม่จำเป็นต้องติดตั้งแยกเพราะเป็นไลบรารีของ Python มาตรฐาน
+pillow  # สำหรับการจัดการรูปภาพ
+numpy  # สำหรับการคำนวณเชิงตัวเลข
+pandas  # สำหรับการจัดการข้อมูล
+matplotlib  # สำหรับการสร้างกราฟ
+seaborn  # สำหรับการสร้างกราฟแบบสถิติ
+scikit-learn  # สำหรับ machine learning
+tensorflow  # สำหรับ deep learning
+keras  # สำหรับการสร้าง neural networks
+warnings  # ไม่จำเป็นต้องติดตั้งแยกเพราะเป็นไลบรารีของ Python มาตรฐาน
